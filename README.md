@@ -33,7 +33,7 @@ Node remove(int index);
 
 ## Stack
 
-![](\asserts\Stack.png)
+![Image](https://github.com/user-attachments/assets/f378087b-c128-4d5c-8a1e-4d1fbcf0d353)
 
 ``` Java
 Structure:
