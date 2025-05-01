@@ -3,7 +3,7 @@
 
 ## Linked List
 
-![Linked List](\asserts\LinkedList.png)
+![Image](https://github.com/user-attachments/assets/ccf38414-38ac-4bb8-83d9-da01b3d31910)
 
 ```Java
 Structure :
