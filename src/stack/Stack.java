@@ -7,7 +7,6 @@ public class Stack {
     class Node {
         int value;  // <---------- value
         Node next; // <----------- point to the next node
-
         // <---------- node constructor ()
         Node(int value) {
             this.value = value;
