@@ -12,6 +12,7 @@ public class Stack {
             this.value = value;
         }
     }
+    public Stack(){}
     // <-------- Constructor stack []
     public Stack(int value) {
         Node newNode = new Node(value); // <-------- create and call constructor node ()
