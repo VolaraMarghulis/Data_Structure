@@ -3,7 +3,7 @@
 
 ## Linked List
 
-![Linked List](\asserts\LinkedList.png)
+![Image](https://github.com/user-attachments/assets/ccf38414-38ac-4bb8-83d9-da01b3d31910)
 
 ```Java
 Structure :
@@ -33,7 +33,7 @@ Node remove(int index);
 
 ## Stack
 
-![](\asserts\Stack.png)
+![Image](https://github.com/user-attachments/assets/f378087b-c128-4d5c-8a1e-4d1fbcf0d353)
 
 ``` Java
 Structure:
