@@ -13,6 +13,7 @@ class Queue {
             this.value = value;
         }
     }
+    public Queue(){}
     // <-------- Constructor stack []
     public Queue (int value) {
         Node newNode = new Node(value);
