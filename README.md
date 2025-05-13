@@ -58,3 +58,25 @@ void getHeight();
 void push (int value);
 Node pop();
 ```
+
+# Queue
+
+![](\asserts\queue.png)
+
+```java
+class Node {
+        int value; // <---------- value
+        Node next; // <----------- point to the next
+        // <---------- node constructor ()
+        Node(int value) {
+            this.value = value;
+        }
+    }
+     //<------------------------ methods
+void printQueue();
+void getFirst();
+void getLast();
+void getLength();
+void enqueue(int value);
+Node dequeue ();
+```
