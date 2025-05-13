@@ -13,6 +13,7 @@ public class LinkedList {
                 this.value = value;
             }
         }
+        public LinkedList(){}
         // <------------------------- Constructor for our LinkedList
     public LinkedList(int value){
         // <------------------------- newNode call constructor Node
